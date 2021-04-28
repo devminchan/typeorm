@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devminchan/typeorm/typeorm.git"
+    "url": "https://github.com/devminchan/typeorm.git"
   },
   "tags": [
     "orm",
